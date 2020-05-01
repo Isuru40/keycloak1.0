@@ -1,0 +1,4 @@
+com\dimension\controller\AccountController.class
+com\dimension\security\KeycloakConfig.class
+com\dimension\demo\DemoApplication.class
+com\dimension\security\KeycloakSecurityConfig.class
